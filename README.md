@@ -3,6 +3,7 @@ A PowerShell module for creating Hyper-V VM's in my enviroment.
 
 ### How to use
 - Copy module folder to `C:\Program Files\WindowsPowerShell\Modules`
+- In PowerShell prompt type `Import-Module Lab`
 
 ### Modules
 - `New-LabSwitch -Verbose`
